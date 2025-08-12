@@ -24,6 +24,6 @@ and not used in small apps
 In that code
 
 notifyListeners() call inside the class which extend ChangeNotifier (Happens)
-   only the widget listens and manage state
+   only the widget listens and changes Ui
 
 */
