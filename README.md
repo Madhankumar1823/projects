@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Madhan Kumar!  
 ### 🚀 Flutter Developer | Firebase Enthusiast | Mobile App Creator
 
+
+
 ---
 
 ## 🛠 Tech Stack
@@ -14,7 +16,6 @@
 ---
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" width="80" />
 
 
 ⭐ From [Madhankumar1823](https://github.com/Madhankumar1823)
